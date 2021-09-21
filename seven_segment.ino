@@ -2,9 +2,9 @@
  *     
  *     
             Description:
-            In this program LEDs will be toggled using a switch. 
-            The count of state changes recorded by toggle switch will be recorded and displayed with no rollover in decimal and 
-            rollover in hexidecimal. A seven segment display will show the number of times the switch was toggled with rollover.            
+            In this program LEDs will be toggled using a switch. The count of state changes recorded by toggle switch will be 
+            recorded and displayed with no rollover in decimal and rollover in hexidecimal. A seven segment display will show 
+            the number of times the switch was toggled with rollover.            
  *          
  *
  */
